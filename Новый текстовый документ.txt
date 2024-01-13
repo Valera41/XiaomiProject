@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="wrapper">
+  <header class="header">
+<div class="container">
+<div class="header__top">
+    <div class="header__logo logo">
+      <img src="images/Logo.svg" alt="" class="header__logo-img">
+    </div>
+  
+    <nav class="header__nav">
+      <ul class="header__nav-list">
+        <li class="header__nav-item"><a href="#" class="header__nav-link">About Us</a>
+        </li>
+        <li class="header__nav-item"><a href="#" class="header__nav-link">Courses</a></li>
+        <li class="header__nav-item"><a href="#" class="header__nav-link">Events</a></li>
+        <li class="header__nav-item"><a href="#" class="header__nav-link">Blog</a></li>
+        <li class="header__nav-item"><a href="#" class="header__nav-link">Contacts</a></li>
+      </ul>
+    </nav>
+<div class="header__btn">
+  
+    <a class="header__btn-top button" href="#">get consultation</a>
+  <div class="header__user">
+    <a class="header__user-btn" href="#">log in</a>
+    /
+    <a class="header__user-btn" href="#">register</a>
+  </div>
+  
+</div>
+</div>
+
+<div class="header__inner">
+<div class="header__mid">
+  <div class="header__mid-ch">
+    <div class="xueta1">
+  <a  class="header__mid-c" href="#">
+    <svg width="84" height="84" viewBox="0 0 84 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle opacity="0.12" cx="42" cy="42" r="42" fill="#FF3F3A"/>
+      <circle cx="42" cy="42" r="26" fill="#FF3F3A"/>
+      <path d="M48.5 41.134C49.1667 41.5189 49.1667 42.4811 48.5 42.866L39.5 48.0622C38.8333 48.4471 38 47.966 38 47.1962L38 36.8038C38 36.034 38.8333 35.5529 39.5 35.9378L48.5 41.134Z" fill="white"/>
+      </svg>
+    </div>
+  
+  <div class="xueta2">
+    <p>Play showreel</p>
+  </div>
+</a>
+</div>
+ 
+  <h1 class="header__mid-title">Enjoy studying
+    with Createx Online Courses</h1>
+    <div class="head__buttons">
+    <a href="" class="header__mid-btn2 button2">About us</a>
+    <a href="" class="header__mid-btn button">Explore courses</a>
+  </div>
+    
+</div>
+<div class="head__img">
+  <img class="head__img-link" src="images/person.jpg" alt="">
+</div>
+
+</div>
+<div class="head__descr">
+  <ul class="head__descr-list">
+    
+    <li class="head__descr-item">
+      <span>1200</span>
+      Students graduated
+    </li>
+    <span ></span>
+    <li class="head__descr-item">
+      <span>84</span>
+      Qualified  tutors</li>
+      <span ></span>
+    <li class="head__descr-item">
+      <span>16</span>
+      Qualified tutors</li>
+      <span ></span>
+    <li class="head__descr-item">
+      <span>5</span>
+      Years of experience</li>
+      
+  </ul>
+</div>
+
+</div>
+
+  </header>
+</div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
